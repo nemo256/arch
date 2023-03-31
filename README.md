@@ -16,5 +16,5 @@ $ git clone https://github.com/nemo256/arch
 
 - Install arch using the custom configs:
 ```shell
-$ archinstall --config arch/n3m0_config.json --disk_layouts arch_n3m0_disk_layouts.json
+$ archinstall --config arch/n3m0_config.json --disk_layouts arch/n3m0_disk_layouts.json
 ```
