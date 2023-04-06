@@ -3,7 +3,7 @@
 # `arch`
 
 <h2>
-  (Not working for now, until <a href="https://github.com/archlinux/archinstall">archinstall</a> is stable)
+  (<a href="https://github.com/archlinux/archinstall">archinstall</a> is not stable)
 </h2>
 <h3>
   My custom arch install user configuration and disk layout configuration.
